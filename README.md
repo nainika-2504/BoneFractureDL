@@ -35,3 +35,6 @@ BoneFractureProject/
 - PyTorch, torchvision
 - scikit-learn, matplotlib, seaborn
 - grad-cam, Gradio, FastAPI
+
+## Model Weights
+Model file stored in Google Drive (too large for GitHub).

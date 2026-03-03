@@ -3,3 +3,6 @@ __pycache__/
 .ipynb_checkpoints/
 *.egg-info/
 .env
+
+model/*.pth
+model/*.pt
