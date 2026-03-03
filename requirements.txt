@@ -1,0 +1,11 @@
+torch
+torchvision
+scikit-learn
+matplotlib
+seaborn
+grad-cam
+gradio
+fastapi
+uvicorn
+pillow
+numpy
